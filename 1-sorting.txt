@@ -1,0 +1,3 @@
+1. Read num1, num2, num3
+2. Sorts num1, num2, num3 
+3. Write the output o the sorted numbers
