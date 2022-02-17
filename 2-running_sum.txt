@@ -1,0 +1,9 @@
+Write("Enter a set of numbers")
+Declare these set numbers as a variable y
+Initialize a variable sum to 0
+Read each number in y as x
+Add x to sum, sum = sum + x
+If x is less than 0
+Then return the current value of sum
+Then stop running the program
+Else continue with the program
