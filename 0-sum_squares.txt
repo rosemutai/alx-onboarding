@@ -1,0 +1,8 @@
+Declare a number x
+Initialize sum to 0
+Write("Enter a set of numbers to be read)
+Read x in the set of numbers
+Square x
+Add sum to x
+Repeat step 2, 3, 4 untill all numbers are Read
+Output sum
